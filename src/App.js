@@ -1,6 +1,6 @@
 
 import './App.css';
-import WordHistogram from './histogram.js';
+import WordHistogram from './components/histogram.js';
 function App() {
   return (
     <div className="App">
